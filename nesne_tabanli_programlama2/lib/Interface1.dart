@@ -1,4 +1,5 @@
 abstract class Interface1{
-  int degisken;
-  
+  late int degisken;
+  void metod1();
+  String metod2();
 }
